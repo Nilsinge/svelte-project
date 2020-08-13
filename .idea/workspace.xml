@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79656204-2850-43a0-ae3f-5b0ad40b90ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/svelte-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/public/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/scripts/setupTypeScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/src/App.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-svelte-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-svelte-project/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/my-svelte-project/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-svelte-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-svelte-project/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +15,12 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nils-Inge &lt;nils_inge87@hotmail.com&gt;" />
+        <option value="Nisse" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -63,8 +52,15 @@
       <option name="presentableId" value="Default" />
       <updated>1597259867285</updated>
       <workItem from="1597259868543" duration="83000" />
-      <workItem from="1597259975487" duration="400000" />
+      <workItem from="1597259975487" duration="1621000" />
     </task>
+    <task id="LOCAL−00001" summary="Added svelte deps">
+      <created>1597260505298</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1597260505298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,12 +68,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added svelte deps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added svelte deps" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597260676016">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1597260676016" />
     <state x="454" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597259907917">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="454" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1597259907917" />
+    <state x="417" y="112" key="CommitChangelistDialog2" timestamp="1597260505172">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="417" y="112" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1597260505172" />
+    <state width="1638" height="135" key="GridCell.Tab.0.bottom" timestamp="1597260706619">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="135" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1597260706619" />
+    <state width="1638" height="135" key="GridCell.Tab.0.center" timestamp="1597260706618">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="135" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1597260706618" />
+    <state width="1638" height="135" key="GridCell.Tab.0.left" timestamp="1597260706617">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="135" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1597260706617" />
+    <state width="1638" height="135" key="GridCell.Tab.0.right" timestamp="1597260706618">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="135" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1597260706618" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1597260516096">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1597260516096" />
+    <state x="538" y="291" width="604" height="490" key="find.popup" timestamp="1597260984128">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="538" y="291" width="604" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1597260984128" />
     <state x="208" y="159" key="new project wizard" timestamp="1597259999789">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
